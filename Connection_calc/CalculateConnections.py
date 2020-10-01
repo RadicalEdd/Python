@@ -1,3 +1,5 @@
+# Script made for calculation of connections per datasource/DB 
+
 import json
 import requests
 from collections import defaultdict
